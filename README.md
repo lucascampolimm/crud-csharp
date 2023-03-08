@@ -1,15 +1,15 @@
 Instruções
 
 1 - Você precisará da IDE do Visual Studio para rodar esse programa.
-Você pode obte-lá através do link: https://visualstudio.microsoft.com/pt-br/downloads/
+- Você pode obte-lá através do link: https://visualstudio.microsoft.com/pt-br/downloads/
 
 2 - Ao abrir o instador da IDE, você precisará instalar o Desenvolvimento para desktop com .NET.
 
 3 - É recomendável que você tenha o .NET SDK instalado na sua máquina.
-Você pode obtê-lo através do link: https://dotnet.microsoft.com/en-us/download
+- Você pode obtê-lo através do link: https://dotnet.microsoft.com/en-us/download
 
 4 - É recomendável que você tenha o pacote de desenvolvedor do .NET Framework instalado na sua máquina.
-Você pode obtê-lo através do link: https://dotnet.microsoft.com/pt-br/download/dotnet-framework
+- Você pode obtê-lo através do link: https://dotnet.microsoft.com/pt-br/download/dotnet-framework
 
 5 -
 - Especifique o caminho do DB no arquivo JanelaPrinciapal.cs na linha 17.
