@@ -6,7 +6,7 @@ Instruções
 1 - Ao abrir o instalador da IDE, você precisará instalar o Desenvolvimento para desktop com .NET.
 
 2 - É recomendável que você tenha o .NET SDK instalado na sua máquina.
-- Você pode obtê-lo através do link: https://dotnet.microsoft.com/en-us/download
+- Você pode obtê-lo através do link: https://dotnet.microsoft.com/pt-br/download/
 
 3 -
 - Especifique o caminho do DB no arquivo JanelaPrinciapal.cs na linha 17.
