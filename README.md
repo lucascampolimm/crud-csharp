@@ -27,6 +27,3 @@ As bibliotecas são:
 PS-1:
 Caso o programa apresente o erro "Não é possível converter implicitamente tipo string em System.Windows.Forms", é porque ele não está puxando o Name.Name
 Você pode corrigir isso facilmente alterando o atributo Name para Name.Name e salvando o projeto com CTRL + S.
-
-PS-2:
-O projeto está um pouco confuso porquê de início iria trabalhar com o banco de dados de forma versionada, mas acabou que não deu certo e fiz na mão. Não removi o que tinha feito antes porque o Visual Studio cria várias rotas internas, fiquei com receio de tudo parar de funcionar e deixei por lá.
